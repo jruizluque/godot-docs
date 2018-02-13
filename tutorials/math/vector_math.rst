@@ -224,7 +224,7 @@ and
     
     A \cdot B = A_{x}B_{x} + A_{y}B_{y}
 
-However, in most cases it is easiest to use the built-in method. Note that
+However, in most cases it is easier to use the built-in method. Note that
 the order of the two vectors does not matter:
 
 ::
